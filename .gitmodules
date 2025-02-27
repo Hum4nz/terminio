@@ -1,0 +1,6 @@
+[submodule "lib/FTXUI"]
+	path = lib/FTXUI
+	url = https://github.com/ArthurSonzogni/FTXUI.git
+[submodule "lib/SQLiteCpp"]
+	path = lib/SQLiteCpp
+	url = https://github.com/SRombauts/SQLiteCpp.git
